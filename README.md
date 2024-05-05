@@ -15,3 +15,11 @@ This Python project allows users to input a phone number and obtain the location
 
 ## Installation
 1. **Clone Repository**: Clone this repository to your local machine.
+https://github.com/Hackfredi/Locator.git
+
+2. **Install Dependencies**:
+pip install phonenumbers
+pip install opencage
+pip install folium
+
+
